@@ -1,1 +1,1 @@
-# FizzBuzz
+ ![FizzBuzz](/FizzBuzz.png)
